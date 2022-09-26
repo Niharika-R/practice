@@ -1,2 +1,2 @@
 console.log('practice github')
-console.log("practice react js")
+console.log("practice react jds")
